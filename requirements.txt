@@ -7,5 +7,8 @@ matplotlib
 joblib
 ipykernel
 seaborn
+catboost
+xgboost
+dill
 
-# -e .
+-e .
