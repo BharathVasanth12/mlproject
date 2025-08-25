@@ -1,5 +1,5 @@
-from logger import logger 
+from logger import logging 
 
-logger.info("I am info")
-logger.warning("I am info")
-logger.error("I am info")
+logging.info("I am info")
+logging.warning("I am info")
+logging.error("I am info")
