@@ -1,0 +1,10 @@
+pandas
+numpy
+mlflow<3
+notebook
+scikit-learn
+matplotlib
+joblib
+ipykernel
+
+-e .
