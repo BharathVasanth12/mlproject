@@ -10,5 +10,6 @@ seaborn
 catboost
 xgboost
 dill
-
+Flask
+Flask-Cors
 -e .
